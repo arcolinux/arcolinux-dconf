@@ -1,1 +1,1 @@
-# ArcoLinux-config-dconf
+# ArcoLinux-config-dconf for this desktop/iso
